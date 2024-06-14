@@ -1,120 +1,89 @@
 ---
-title: 'Terms and Conditions'
+title: 'Terms of Services'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Last updated_: April 9, 2024
 
-Please read these terms and conditions carefully before using Our Service.
+Thank you for using our products and services ("Services"). These Services are provided by NordPress ("NordPress"). By using our Services, you agree to be bound by the following terms. Please read them carefully. If you do not agree to these terms, please do not use our Services. These terms apply to your use of NordPress, including its features, apps, services, technologies, and software, unless expressly stated otherwise.
 
-## Interpretation and Definitions
+### Service Description
+NordPress is a dynamic web platform that seamlessly incorporates store links and notes, empowering you to effortlessly organize all your digital content and personal reflections. Our goal is to enhance your individual focus, enabling you to curate the information that matters most to you. With NordPress, you can easily capture ideas from your stored links and notes, transform them into public notes or collections, sharing your knowledge and accomplishments with others.
 
-### Interpretation
+At its core, note-taking is a process of contemplation, aiding you in constructing knowledge within your mind.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+### Using Our Services
+By using our Services, you agree to comply with any policies made available to you within the Services.
 
-### Definitions
+Please refrain from misusing our Services. This includes but is not limited to interfering with our Services or attempting to access them using methods other than those provided by us. You may only use our Services as permitted by applicable laws, including export and re-export control laws and regulations. Failure to comply with our terms or policies, or if we are investigating suspected misconduct, may result in the suspension or termination of your access to our Services.
 
-For the purposes of these Terms and Conditions:
+Using our Services does not grant you ownership of any intellectual property rights in our Services or the content you access. You may not use content from our Services unless you obtain permission from its owner or are otherwise permitted by law. You may not use any branding or logos used in our Services without our prior written consent. Legal notices displayed in or along with our Services must not be removed, obscured, or altered.
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+As part of your use of the Services, we may send you service announcements, administrative messages, and other information. You may opt out of some of these communications.
 
-- **Country** refers to: California, United States
+Most of our Services are accessible on mobile devices. Please ensure that your use of these Services does not distract you and prevents you from complying with traffic or safety laws.
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AstroWind LLC, 1 Cupertino, CA 95014.
+### Your NordPress Account
+You may need a NordPress Account to access certain features of our Services. It is your responsibility to keep your account password confidential. You are responsible for all activity that occurs under your NordPress Account. Avoid reusing your NordPress Account password on third-party applications.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+### Privacy and Copyright Protection
+Our Privacy Policy explains how we handle your personal data and protect your privacy when you use our Services. By using our Services, you consent to the collection and use of your information in accordance with our Privacy Policy.
 
-- **Service** refers to the Website.
+### Your Content in Our Services
+Some of our Services allow you to create, upload, submit, save, send, or receive content. You retain ownership of any intellectual property rights that you hold in that content. For more information about how we use and store your content, please refer to our Privacy Policy or additional terms for specific Services.
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
+### About Software in Our Services
+When our Services require or include downloadable software, this software may update automatically on your device once a new version or feature is available. Your use of this software is subject to the license terms provided by NordPress. You may not copy, modify, distribute, sell, or lease any part of our Services or included software without our prior written consent.
 
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+### Modifying and Terminating Our Services
+We may modify these terms or any additional terms that apply to a Service to reflect changes in the law or our Services. It is your responsibility to review these terms regularly. We will provide notice of any modifications to these terms on this page. Modifications will not apply retroactively and will become effective no sooner than fourteen days after they are posted. If you do not agree to the modified terms, you should discontinue your use of the affected Service.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+In the event of a conflict between these terms and any additional terms, the additional terms will control.
 
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+### Our Warranties and Disclaimers
+We provide our Services with a commercially reasonable level of skill and care and hope that you will enjoy using them. However, except as expressly set out in these terms or additional terms, neither NordPress nor its suppliers or distributors make any specific promises about the Services. To the extent permitted by law, we exclude all warranties.
 
-## Acknowledgment
+### Limits on Liability
+We strive to provide the best Services possible and to specify clear guidelines for everyone who uses them. However, the Services are provided "as is." To the fullest extent permitted by applicable law, NordPress shall not be liable to you for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these terms or the NordPress products, even if we have been advised of the possibility of such damages.
 
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+### Business Uses of Our Services
+If you are using our Services on behalf of a business, that business accepts these terms. It will hold harmless and indemnify NordPress and its affiliates, officers, agents, and employees from any claim, suit, or action arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, suits, judgments, litigation costs, and attorneys' fees.
 
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+### Fees
+When accessing paid features of NordPress, you may be required to select a payment plan and provide payment details such as your credit card information. By providing such information, you confirm that it is accurate and that you are authorized to use the payment method provided. It is your responsibility to ensure that your account information, including billing address and payment details, is kept up to date. You agree to pay NordPress the specified amount according to the payment plan terms outlined in these Terms of Service.
 
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+If your payment plan includes automatic renewal for a subscription, you authorize NordPress (via Paddle.com) to charge your payment method in advance at the specified intervals until you cancel your subscription. Any incurred charges will be billed to your payment method accordingly. Should you dispute any charges, you must notify NordPress within sixty (60) days of the charge date, or within any longer period required by applicable law.
 
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
+NordPress reserves the right to modify its prices. In the event of price changes, NordPress will notify you at least thirty (30) days in advance through the Service interface, email, or other reasonable means. Your continued use of the Service after the price change constitutes acceptance of the updated pricing terms. You are responsible for any taxes associated with your use of the Service, except for taxes based on NordPress's net income.
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+### Payment Processing
+Please note that NordPress does not directly process payments for any of its services. Our order process is conducted by our online reseller Paddle.com.
 
-## Links to Other Websites
+Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns.
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+By agreeing to our Terms of Service, users who utilize the payment functions of the NordPress service also agree to be bound by the Paddle.com Agreements pertaining to those payment functions. These agreements may be subject to modifications by Paddle.com from time to time to ensure compliance with relevant regulations and industry standards.
 
-The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+By providing consent to these Terms of Service, users authorize Paddle.com to securely store and continue billing their designated payment method, even in cases where the payment method has expired. This authorization helps prevent any disruptions in the provision of NordPress services due to expired payment methods.
 
-We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+For further information or inquiries regarding payments, users are encouraged to contact Paddle.com directly. Please be aware that while NordPress facilitates the service, we do not directly handle payment processing. We appreciate your understanding and cooperation in adhering to these terms, which are designed to ensure a secure and efficient payment process for all users.
 
-## Termination
+### Refunds and Cancellations
+At NordPress, we prioritize your satisfaction and aim to deliver the highest quality products and services. We are committed to ensuring that your experience with NordPress is exceptional. If for any reason you need to modify or cancel your NordPress subscription, you have the following options:
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+#### Modification or Termination:
+-> You can adjust or terminate your NordPress subscription through our online platform by accessing the "Accounts" section on the NordPress website. Simply visit Login page to make changes to your subscription.
 
-Upon termination, Your right to use the Service will cease immediately.
+-> Submit your refund request through our official website or by contacting our customer service team via email at support@nordpress.io. When submitting your refund request, please include your order information and the reason for your request. Our team will promptly review your application.
 
-## Limitation of Liability
+Please submit your refund request within 30 days of purchasing NordPress. We are committed to processing your refund request efficiently. Upon receiving your request, we will review and process it within 7 business days. Once approved, the refunded amount will be credited back to your original payment method within 3-5 business days.
 
-Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+If you have any questions or need further assistance regarding refunds or cancellations, please don't hesitate to contact our customer service team at support@nordpress.io
 
-To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+### About These Terms
+These terms govern the relationship between NordPress and you and do not create any third-party beneficiary rights. Failure to enforce any particular term will not affect the validity or enforceability of any other terms. If you have any questions or concerns about these terms, please contact us at support@nordpress.io
 
-Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+### Contact Us
 
-## "AS IS" and "AS AVAILABLE" Disclaimer
+If you have any questions about these Terms of Services, You can contact us:
 
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
-
-## Governing Law
-
-The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
-
-## Disputes Resolution
-
-If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
-
-## For European Union (EU) Users
-
-If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
-
-## United States Legal Compliance
-
-You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
-
-## Severability and Waiver
-
-### Severability
-
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
-
-### Waiver
-
-Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
-
-## Translation Interpretation
-
-These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
-
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
-## Contact Us
-
-If you have any questions about these Terms and Conditions, You can contact us:
-
-- By email: somecoolemail@domain.com
+- By email: support@nordpress.io
